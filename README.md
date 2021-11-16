@@ -1,4 +1,4 @@
-# login_ui
+# FLutterAuth
 
 A Flutter Prj displaying the Login and the Signup screens.
 
